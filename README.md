@@ -1,19 +1,19 @@
-# View Template
+# Kitawi
 
-This is a simple starter for  creating a new View Library web application.
+This is a simple starter for  creating a new Kitawi web application.
 
 ## Getting Started
 
 Run Development Server
 
 ```bash
-view run
+kitawi run
 ```
 
 Build for Production
 
 ```bash
-view build -o dist
+kitawi build -o dist
 ```
 
 ## License
